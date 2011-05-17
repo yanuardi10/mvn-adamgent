@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.ehcache-spring-annotations</groupId>
+  <artifactId>ehcache-spring-annotations-aspects</artifactId>
+  <versioning>
+    <release>1.2.0-ADAMGENT</release>
+    <versions>
+      <version>1.2.0-ADAMGENT</version>
+    </versions>
+    <lastUpdated>20110517213724</lastUpdated>
+  </versioning>
+</metadata>
