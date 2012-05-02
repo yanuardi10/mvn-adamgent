@@ -3,10 +3,11 @@
   <groupId>org.springframework.social</groupId>
   <artifactId>spring-social-foursquare</artifactId>
   <versioning>
-    <release>1.0.8.RELEASE</release>
+    <release>1.0.8.ADAMGENT.RELEASE</release>
     <versions>
       <version>1.0.8.RELEASE</version>
+      <version>1.0.8.ADAMGENT.RELEASE</version>
     </versions>
-    <lastUpdated>20120427175444</lastUpdated>
+    <lastUpdated>20120502142208</lastUpdated>
   </versioning>
 </metadata>
