@@ -3,10 +3,11 @@
   <groupId>bitwalker</groupId>
   <artifactId>UserAgentUtils</artifactId>
   <versioning>
-    <release>1.13</release>
+    <release>1.8</release>
     <versions>
       <version>1.13</version>
+      <version>1.8</version>
     </versions>
-    <lastUpdated>20140407203629</lastUpdated>
+    <lastUpdated>20140410145954</lastUpdated>
   </versioning>
 </metadata>
