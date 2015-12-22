@@ -1,0 +1,1 @@
+My public Maven repository ZXing and other projects can't get their act together and publish jars to maven.
